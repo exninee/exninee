@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://tryhackme.com/dashboard">
     <img src="https://img.shields.io/badge/TryHackMe-green?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UC4HFxRRGRV68wKDClHzLQAw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://hackerone.com/exnine?type=user">
     <img src="https://img.shields.io/badge/HackerOne-red?style=for-the-badge&logo=HackerOne&logoColor=white" alt="HackerOne Badge"/>
   </a>
 </div>
