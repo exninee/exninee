@@ -29,7 +29,7 @@
 
 - :zap: In my spare time I solve ctf on hackerone , tryhackme and hackthebox. Or reading technical articles.
 
-- :mailbox:How to reach me: yigitt492@gmail.com
+- :mailbox:How to reach me: http://www.yigitbozkurt.epizy.com | yigitt492@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
