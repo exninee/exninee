@@ -23,7 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- :telescope:I'm interested in web application security in cyber security and I make web applications as a frondend.
+- :telescope:I'm interested in backend development and ı'm keen on wep security.
 
 - :seedling: Exploring Technical Content Writing.
 
