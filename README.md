@@ -25,13 +25,13 @@
 ### :woman_technologist: About Me :
 - :telescope:I'm interested in backend development and ı'm keen on wep security.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: When ı empty time ı'm reading book and ı'm watching film from netflix.
 
-- :zap: In my spare time I solve ctf on hackerone , tryhackme and hackthebox. Or reading technical articles.
+- :zap: 
 
-- :mailbox:How to reach me: yigitt492@gmail.com
+- :mailbox:Contact me : yigitt492@gmail.com
 
-- :computer:my web site: http://www.yigitbozkurt.epizy.com
+- :computer:my web site : 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
