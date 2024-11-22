@@ -27,7 +27,7 @@
 
 - :seedling: When ı empty time ı'm reading book and ı'm watching film from netflix.
 
-- :zap: 
+- :zap: ı'm a national rower, ı'm went to olympic games and ı'm get the third in world championship.
 
 - :mailbox:Contact me : yigitt492@gmail.com
 
