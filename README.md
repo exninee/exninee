@@ -23,7 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- :telescope:I'm interested in backend development and ı'm keen on wep security.
+- :telescope:I'm interested in backend development and ı'm keen on web security.
 
 - :seedling: When ı empty time ı'm reading book and ı'm watching film from netflix.
 
